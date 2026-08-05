@@ -41,19 +41,8 @@
 
 ---
 
-### 📈 GitHub İstatistiklerim (Düzeltilmiş ve Çalışan Kartlar)
-<!-- LÜTFEN 'GITHUB_KULLANICI_ADIN' YERİNE 'slakoparan' YAZ -->
+### 📈 GitHub İstatistiklerim
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&theme=tokyonight" width="48%" alt="Sıla's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&theme=tokyonight" width="48%" alt="Sıla's Top Langs" />
-</p>
+![Sıla's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=slakoparan&show_icons=true&theme=tokyonight)
 
----
-
-### 🐍 Katkı Yılanı (Profil Katkı Grafiğinde Yılan Animasyonu)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake.svg">
-</picture>
+![Sıla's Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=slakoparan&layout=compact&theme=tokyonight)
