@@ -49,13 +49,15 @@
 
 name: Generate Snake
 
+name: Generate Snake
+
 on:
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
   push:
     branches:
-    - main
+      - main
 
 jobs:
   generate:
