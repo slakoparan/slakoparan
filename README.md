@@ -72,3 +72,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+### 📈 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&locale=tr&theme=tokyonight" alt="Sıla'nın GitHub İstatistikleri" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&locale=tr&theme=tokyonight" alt="Sıla'nın En Çok Kullandığı Diller" width="48%" />
+</p>
+
+### 🐍 Contribution Snake
+![Snake animation](https://github.com/slakoparan/slakoparan/blob/output/github-contribution-grid-snake.svg)
