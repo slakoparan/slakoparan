@@ -55,6 +55,14 @@
 
 Here are some ideas to get you started:
 
+
+### 📈 GitHub İstatistiklerim
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&locale=tr&theme=tokyonight" alt="Sıla'nın GitHub İstatistikleri" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&locale=tr&theme=tokyonight" alt="Sıla'nın En Çok Kullandığı Diller" width="48%" />
+</p>
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
