@@ -50,10 +50,6 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=slakoparan&layout=compact&theme=tokyonight" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=slakoparan&theme=tokyo-night" width="100%" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake
@@ -63,4 +59,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake.svg">
 </picture>
-
