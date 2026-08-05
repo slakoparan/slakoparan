@@ -1,23 +1,21 @@
-## Hi there 👋
-
-<!--<h1 align="center">👋 Merhaba, Ben Sıla!</h1>
-<p align="center"><b>Ekonometri Öğrencisi | Veri Bilimi & Analitiği Tutkunu</b></p>
-
-<!-- Görsel / GIF Alanı -->
+<!-- En Üste Banner Görseli (Hareketi Pixel Art) -->
 <p align="center">
-  <img src="https://i.pinimg.com/originals/08/cb/79/08cb7929d20c3a2b7e19483c6d7fa02e.gif" width="100%" height="300px" style="object-fit: cover;" />
+  <img src="https://i.pinimg.com/originals/08/cb/79/08cb7929d20c3a2b7e19483c6d7fa02e.gif" width="100%" alt="Pixel Art Banner" />
 </p>
 
-<!-- Sosyal Medya Rozetleri -->
+<h1 align="center">Hi there 👋, Ben Sıla!</h1>
+<p align="center"><b>Ekonometri Öğrencisi | Veri Bilimi & Analitiği Tutkunu</b></p>
+
+<!-- Sosyal Medya Rozetleri (Mevcut kodun) -->
 <p align="center">
-  <a href="https://linkedin.com/in/KULLANICI_ADIN"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://kaggle.com/KULLANICI_ADIN"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
-  <a href="https://medium.com/@KULLANICI_ADIN"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/slakoparan/"><img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.kaggle.com/slakoparan"><img src="https://img.shields.io/badge/KAGGLE-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>
+  <a href="https://medium.com/@slakoparan"><img src="https://img.shields.io/badge/MEDIUM-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
 </p>
 
 ---
 
-### 👩‍💻 Hakkımda
+### 👩‍💻 Hakkımda (Mevcut kodun)
 - 🎓 Sakarya Üniversitesi'nde **Ekonometri** okuyorum.
 - 📊 Veri analitiği, zaman serisi analizleri ve ekonometrik modelleme üzerine çalışıyorum.
 - 🎯 Hedefim veri bilimi ve finansal analitik alanında kendimi derinleştirmek.
@@ -25,8 +23,7 @@
 
 ---
 
-### 🛠️ Teknolojiler & Araçlar
-
+### 🛠️ Teknolojiler & Araçlar (Mevcut kodun)
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Pandas](https://img.shields.io/badge/PANDAS-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -36,50 +33,27 @@
 
 ---
 
-### 🌟 Öne Çıkan Projeler
-
+### 🌟 Öne Çıkan Projeler (Mevcut kodun)
 | Proje Adı | Açıklama | Teknolojiler | Link |
 | :--- | :--- | :--- | :--- |
-| **TÜBİTAK 2209-A Sürdürülebilirlik** | Kentleşme ve çevre göstergelerinin ekonometrik analizi. | `Python`, `STATA` | [Repo](https://github.com/slakoparan) |
-| **SQL Analiz Çalışmaları** | Karmaşık veri tabanı sorguları ve veri analizi uygulamaları. | `SQL` | [Repo](https://github.com/slakoparan) |
+| **TÜBİTAK 2209-A Sürdürülebilirlik** | Kentleşme ve çevre göstergelerinin ekonometrik analizi. | `Python`, `STATA` | [Repo](https://github.com/slakoparan/...) |
+| **SQL Analiz Çalışmaları** | Karmaşık veri tabanı sorguları ve veri analizi uygulamaları. | `SQL` | [Repo](https://github.com/slakoparan/...) |
 
 ---
 
-### 📈 GitHub İstatistiklerim
+### 📈 GitHub İstatistiklerim (Düzeltilmiş ve Çalışan Kartlar)
+<!-- LÜTFEN 'GITHUB_KULLANICI_ADIN' YERİNE 'slakoparan' YAZ -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&theme=tokyonight" width="48%" />
-</p>
-**slakoparan/slakoparan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&locale=tr&theme=tokyonight" alt="Sıla'nın GitHub İstatistikleri" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&locale=tr&theme=tokyonight" alt="Sıla'nın En Çok Kullandığı Diller" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&theme=tokyonight" width="48%" alt="Sıla's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&theme=tokyonight" width="48%" alt="Sıla's Top Langs" />
 </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
 
-
-### 📈 GitHub İstatistiklerim
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=slakoparan&show_icons=true&locale=tr&theme=tokyonight" alt="Sıla'nın GitHub İstatistikleri" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=slakoparan&layout=compact&locale=tr&theme=tokyonight" alt="Sıla'nın En Çok Kullandığı Diller" width="48%" />
-</p>
-
-### 🐍 Contribution Snake
-![Snake animation](https://github.com/slakoparan/slakoparan/blob/output/github-contribution-grid-snake.svg)
+### 🐍 Katkı Yılanı (Profil Katkı Grafiğinde Yılan Animasyonu)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/slakoparan/slakoparan/output/github-contribution-grid-snake.svg">
+</picture>
